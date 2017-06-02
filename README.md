@@ -1,0 +1,2 @@
+# myweb
+first static web
